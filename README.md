@@ -1,5 +1,7 @@
 # Exploratory Data Analysis of Coffee Bean Sales
 
+![Portfolio-Projects](Project 1. Exploratory Data Analysis of Coffee Bean Sales/coffee beans sales.jpg)
+
 ## Project Goal
 1. **Understand the Data Structure**  
    - Identify and analyze key features, data types, and the overall structure of the dataset, including orders, customers, and products.
