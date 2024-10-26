@@ -37,7 +37,7 @@ Python (pandas, numpy), Jupyter Notebook, Data Visualization Libraries (matplotl
 - **Outlier Investigation**: Review detected outliers to determine if they indicate data entry errors or significant trends, and adjust strategies as needed.
 
 ---
-## Project 2: Loan Approval Prediction
+## Project 2: Loan Approval Prediction.
 
 ![Portfolio-Projects](Project%202.%20Loan%20Approval%20Prediction/loan_approval.jpg)
 
@@ -66,7 +66,7 @@ The goal of this project was to develop a model to predict loan approval based o
 Our predictive model achieved an accuracy of 99%, suggesting that it can effectively support lenders in making data-driven decisions. To improve loan approval processes, lenders should prioritize income verification and offer services to applicants with poor credit histories, such as credit improvement programs.
 
 ---
-## Project 3: Predicting Medical Insurance Costs
+## Project 3: Predicting Medical Insurance Costs.
 
 ![Portfolio-Projects](Project%203.%20Predicting%20Medical%20Insurance%20Costs/medical_cost_prediction.jpg)
 
@@ -99,3 +99,32 @@ Python (pandas, numpy, scikit-learn), Jupyter Notebook, Data Visualization Libra
 - **BMI-Related Incentives**: Offer discounts or incentives for maintaining a healthy BMI to promote healthier lifestyles.
 - **Age-Based Premiums**: Implement premium adjustments reflecting the increased health risks associated with aging.
 
+---
+### Project 4: Customer Segmentation.
+
+![Portfolio-Projects](Project%204.%20Customer%20Segmentation/customer_segmentation.jpg)
+
+### Project Goal:
+1. **Data Understanding:** Explore customer-related data to identify segments with similar characteristics, behaviors, and preferences.
+2. **Data Preprocessing:** Clean and preprocess the dataset, handling missing values and scaling numerical features.
+3. **Cluster Analysis:** Apply clustering algorithms to segment customers based on key attributes.
+4. **Customer Profiling:** Define and describe customer segments, providing insights for targeted marketing strategies.
+
+### Key Steps:
+- Data Loading and Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Normalization and Feature Scaling
+- Clustering Model Selection (K-Means)
+- Cluster Analysis and Visualization
+- Customer Segmentation and Profiling
+
+### Skills Applied:
+Data Cleaning and Preprocessing, Unsupervised Machine Learning (Clustering), Feature Scaling and Normalization, Data Visualization, Statistical Analysis
+
+### Tools & Technologies:
+Python (pandas, numpy, scikit-learn), Jupyter Notebook, Data Visualization Libraries (matplotlib, seaborn, plotly).
+
+### Key Observations:
+Cluster 0: Represents a low-income, low-spending segment, likely more focused on budget-friendly products and showing lower engagement with campaigns.
+Cluster 1: Represents high-income, high-spending customers who are the most valuable segment, with strong responsiveness to campaigns and a preference for premium products like wine.
+Cluster 2: Represents a middle-income segment with moderate spending, more likely to have children, and showing moderate engagement with marketing efforts.
