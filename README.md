@@ -64,6 +64,8 @@ Python (pandas, numpy, scikit-learn), Jupyter Notebook, Data Visualization Libra
 ---
 ## Project 3: Predicting Medical Insurance Costs
 
+![Portfolio-Projects](Project%203.%20Predicting%20Medical%20Insurance%20Costs/medical_cost_prediction.jpg)
+
 ### Project Goal:
 1. **Feature Identification:** Assess key factors (age, sex, BMI, children, smoker status, region, and medical costs) and their impact on insurance pricing.
 2. **Data Cleaning:** Handle missing values, address outliers, and normalize data for consistency.
