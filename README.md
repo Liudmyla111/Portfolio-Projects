@@ -39,7 +39,7 @@ Python (pandas, numpy), Jupyter Notebook, Data Visualization Libraries (matplotl
 ---
 ## Project 2: Loan Approval Prediction
 
-![Portfolio-Projects](https://raw.githubusercontent.com/username/repository/main/Project%202.%20Loan%20Approval%20Prediction/loan_approval_prediction.jpg)
+![Portfolio-Projects](Project%202.%20Loan%20Approval%20Prediction/loan_approval_prediction.jpg)
 
 ### Project Goal:
 1. **Data Understanding:** Examine the dataset to understand key factors affecting loan approval, such as applicant demographics, loan terms, and credit history.
