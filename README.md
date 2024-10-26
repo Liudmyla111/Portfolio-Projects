@@ -153,3 +153,6 @@ Data Cleaning and Preprocessing, A/B Testing Methodology, Hypothesis Testing, St
 
 ### Tools & Technologies:
 Python (pandas, numpy, scipy), Jupyter Notebook, Data Visualization Libraries (matplotlib, seaborn).
+
+### Recommendations:
+Based on the Z-test results, we recommend adopting the Ad strategy as it resulted in a significantly higher conversion rate compared to the PSA strategy. Additionally, since the number of ads shown was similar between the two groups, we can confidently conclude that the content of the Ad campaign was more effective at driving conversions.
