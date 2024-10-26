@@ -68,7 +68,7 @@ Our predictive model achieved an accuracy of 99%, suggesting that it can effecti
 ---
 ## Project 3: Predicting Medical Insurance Costs.
 
-![Portfolio-Projects](Project%203.%20Predicting%20Medical%20Insurance%20Costs/medical_cost_prediction.jpg)
+![Portfolio-Projects](Project%203.%20Predicting%20Medical%20Insurance%20Costs/medical_costs_prediction.jpg)
 
 ### Project Goal:
 1. **Feature Identification:** Assess key factors (age, sex, BMI, children, smoker status, region, and medical costs) and their impact on insurance pricing.
@@ -132,7 +132,7 @@ Cluster 2: Represents a middle-income segment with moderate spending, more likel
 ---
 ## Project 5: Marketing Campaign A/B Test.
 
-![Portfolio-Projects](Project%205.%20Marketing%20Campaign%20AB%20Test/ab_testing.jpeg)
+![Portfolio-Projects](Project%205.%20Marketing%20Campaign%20AB%20Test/ab_testing.jpg)
 
 ### Project Goal:
 1. **Understand Campaign Impact:** Assess the effectiveness of a marketing campaign by comparing two different strategies on customer response.
