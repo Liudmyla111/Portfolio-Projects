@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of Coffee Bean Sales
 
-![Portfolio-Projects](Project 1. Exploratory Data Analysis of Coffee Bean Sales/coffee beans sales.jpg)
+![Portfolio-Projects](Project%201.%20Exploratory%20Data%20Analysis%20of%20Coffee%20Bean%20Sales/coffee%20beans%20sales.jpg)
 
 ## Project Goal
 1. **Understand the Data Structure**  
