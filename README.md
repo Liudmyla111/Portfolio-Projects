@@ -128,3 +128,28 @@ Python (pandas, numpy, scikit-learn), Jupyter Notebook, Data Visualization Libra
 Cluster 0: Represents a low-income, low-spending segment, likely more focused on budget-friendly products and showing lower engagement with campaigns.
 Cluster 1: Represents high-income, high-spending customers who are the most valuable segment, with strong responsiveness to campaigns and a preference for premium products like wine.
 Cluster 2: Represents a middle-income segment with moderate spending, more likely to have children, and showing moderate engagement with marketing efforts.
+
+---
+## Project 5: Marketing Campaign A/B Test.
+
+![Portfolio-Projects](Project%205.%20Marketing%20Campaign%20AB%20Test/ab_testing.jpeg)
+
+### Project Goal:
+1. **Understand Campaign Impact:** Assess the effectiveness of a marketing campaign by comparing two different strategies on customer response.
+2. **Data Preprocessing:** Clean and prepare the data for analysis, addressing any missing values, duplicates, and inconsistencies.
+3. **Hypothesis Testing:** Conduct statistical tests to evaluate the performance of each campaign strategy and identify the best-performing one.
+4. **Generate Insights:** Provide actionable recommendations for optimizing future marketing strategies based on A/B test results.
+
+### Key Steps:
+- Data Loading and Cleaning
+- Exploratory Data Analysis (EDA)
+- A/B Test Setup and Definition
+- Statistical Testing (t-test)
+- Analyze and Interpret Results
+- Reporting and Recommendations
+
+### Skills Applied:
+Data Cleaning and Preprocessing, A/B Testing Methodology, Hypothesis Testing, Statistical Analysis, Data Visualization.
+
+### Tools & Technologies:
+Python (pandas, numpy, scipy), Jupyter Notebook, Data Visualization Libraries (matplotlib, seaborn).
