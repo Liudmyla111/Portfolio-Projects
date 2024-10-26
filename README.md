@@ -1,13 +1,11 @@
-## Exploratory Data Analysis of Coffee Bean Sales
+## Project 1: Exploratory Data Analysis of Coffee Bean Sales.
 
 ![Portfolio-Projects](Project%201.%20Exploratory%20Data%20Analysis%20of%20Coffee%20Bean%20Sales/coffee%20beans%20sales.jpg)
 
 ### Project Goal
-1. **Understand the Data Structure**  
-   - Identify and analyze key features, data types, and the overall structure of the dataset, including orders, customers, and products.
+1. **Understand the Data Structure:** Identify and analyze key features, data types, and the overall structure of the dataset, including orders, customers, and products.
 
-2. **Data Cleaning**  
-   - Detect and handle missing values, duplicates, outliers, and inconsistencies to ensure data accuracy and reliability.
+2. **Data Cleaning:** Detect and handle missing values, duplicates, outliers, and inconsistencies to ensure data accuracy and reliability.
 
 3. **Analyze Trends and Patterns**  
    - Explore relationships within the data, including sales trends over time, coffee type popularity, roast levels, and product line performance.
@@ -48,14 +46,11 @@ Python (pandas, numpy), Jupyter Notebook, Data Visualization Libraries (matplotl
 ## Predicting Medical Insurance Costs
 
 ### Project Goal
-1. **Feature Identification**  
-   - Assess key factors (age, sex, BMI, children, smoker status, region, and medical costs) and their impact on insurance pricing.
+1. **Feature Identification:** Assess key factors (age, sex, BMI, children, smoker status, region, and medical costs) and their impact on insurance pricing.
 
-2. **Data Cleaning**  
-   - Handle missing values, address outliers, and normalize data for consistency.
+2. **Data Cleaning:** Handle missing values, address outliers, and normalize data for consistency.
 
-3. **Build Regression Model**  
-   - Develop a regression model to predict individual insurance costs based on the dataset’s features.
+3. **Build Regression Model:** Develop a regression model to predict individual insurance costs based on the dataset’s features.
 
 ### Key Steps
 - Data Loading and Cleaning
