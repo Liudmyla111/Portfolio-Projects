@@ -37,8 +37,34 @@ Python (pandas, numpy), Jupyter Notebook, Data Visualization Libraries (matplotl
 - **Outlier Investigation**: Review detected outliers to determine if they indicate data entry errors or significant trends, and adjust strategies as needed.
 
 ---
+## Project 2: Loan Approval Prediction
 
-## Predicting Medical Insurance Costs
+![Portfolio-Projects](Project%202.%20Loan%20Approval%20Prediction/loan_approval_prediction.jpg)
+
+### Project Goal:
+1. **Data Understanding:** Examine the dataset to understand key factors affecting loan approval, such as applicant demographics, loan terms, and credit history.
+2. **Data Preprocessing:** Clean and preprocess the data to handle missing values, outliers, and categorical data.
+3. **Build a Predictive Model:** Create a machine learning model to predict loan approval based on various applicant features.
+4. **Model Evaluation:** Assess model performance using metrics like accuracy, precision, and recall to ensure reliable predictions.
+
+### Key Steps:
+- Data Loading and Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Selection and Training
+- Model Tuning and Optimization
+- Model Evaluation
+
+### Skills Applied:
+Data Cleaning and Transformation, Feature Engineering, Machine Learning Model Development, Model Evaluation and Optimization, Statistical Analysis.
+
+### Tools & Technologies:
+Python (pandas, numpy, scikit-learn), Jupyter Notebook, Data Visualization Libraries (matplotlib, seaborn).
+
+---
+## Project 3: Predicting Medical Insurance Costs
+
+![Portfolio-Projects](Project%203.%20Predicting%20Medical%20Insurance%20Costs/medical_cost_prediction.jpg)
 
 ### Project Goal:
 1. **Feature Identification:** Assess key factors (age, sex, BMI, children, smoker status, region, and medical costs) and their impact on insurance pricing.
