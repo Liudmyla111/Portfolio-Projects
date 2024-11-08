@@ -156,3 +156,8 @@ Python (pandas, numpy, scipy), Jupyter Notebook, Data Visualization Libraries (m
 
 ### Recommendations:
 Based on the Z-test results, we recommend adopting the Ad strategy as it resulted in a significantly higher conversion rate compared to the PSA strategy. Additionally, since the number of ads shown was similar between the two groups, we can confidently conclude that the content of the Ad campaign was more effective at driving conversions.
+
+---
+## Project 6: Sales Data Analysis with SQL.
+
+![Portfolio-Projects](Project%206.%20Sales%20Data%20Analysis%20with%20SQL/sales-analysis.jpg)
