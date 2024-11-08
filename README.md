@@ -161,3 +161,26 @@ Based on the Z-test results, we recommend adopting the Ad strategy as it resulte
 ## Project 6: Sales Data Analysis with SQL.
 
 ![Portfolio-Projects](Project%206.%20Sales%20Data%20Analysis%20with%20SQL/sales-analysis.jpg)
+
+### Project Goal:
+To explore and analyze retail sales data to uncover insights on top retailers, product preferences, sales methods, seasonal trends, profitability, and correlations.
+
+### Questions Explored:
+1. Which retailers have the highest total sales?
+2. Which products sell the most in different regions?
+3. How does the sales method (online, in-store) affect profit?
+4. Which months have the highest sales?
+5. What is the average profitability for each product?
+6. How has the quantity of sales changed throughout the year?
+7. Which products have profits below average?
+8. Is there a correlation between price per unit and the quantity of units sold?
+
+### Key Findings:
+1. Top Retailer: West Gear has the highest total sales.
+2. Popular Products: Men’s Street Footwear is the most popular product in all regions.
+3. Sales Method: Most purchases are in-store, with online being the least popular.
+4. Seasonal Trends: July and August have the highest sales.
+5. Profitability: Men’s Street Footwear has the highest average profitability, while Women’s Athletic Footwear has the lowest.
+6. Annual Growth: Sales increased by approximately 338.06% from 2020 to 2021.
+7. Below Average Profit: Products like Men’s Athletic Footwear, Women’s Athletic Footwear, and Women’s Street Footwear have below-average profits.
+8. Price and Sales Correlation: No strong correlation was found between price per unit and units sold.
